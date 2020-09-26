@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Multiplication Tables", "Multiplication Tables\Multiplication Tables.pyproj", "{0DCE8344-B218-4214-A137-EBEA37276C8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DCE8344-B218-4214-A137-EBEA37276C8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DCE8344-B218-4214-A137-EBEA37276C8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34656AF2-048A-4568-AD53-23FA0B49E817}
+	EndGlobalSection
+EndGlobal
